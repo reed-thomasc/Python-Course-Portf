@@ -1,3 +1,5 @@
+#This project's goal is to utilize user input and variable functions to create a band name generator. 
+
 #greeting statement
 print("WELCOME TO THE BAND NAME GENERATOR!")
 #city input statement
