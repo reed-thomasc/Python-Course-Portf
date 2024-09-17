@@ -33,7 +33,7 @@ first = input("You come to a crossroad in the woods. You can choose left or righ
 left = input("You chose left. The path leads to a cabin in the woods. Do you choose to go in the cabin or continue down the path? Please type 'cabin' or 'path'")
 right = "You chose right. Your path led to a cliff and you fell off. *GAME OVER*"
 
-cabin = input("You chose to go into the cabin. You find a secret vault with a keypad and a four digit code. Next to the keypad is a piece of laminated paper with three bullet points. The first bullet point says 'you can only enter one door.' The second bullet point says 'the treasure lies behind one of these doors.'The third bullet point says 'You only have one choice. Choose wisely, and good luck.'' Please type 'first', 'second', or 'third'")
+cabin = input("You chose to go into the cabin. You find a secret room with three doors. Next to the doors on a small table is a piece of laminated paper with three bullet points. The first bullet point says 'you can only enter one door.' The second bullet point says 'the treasure lies behind one of these doors.'The third bullet point says 'You only have one choice. Choose wisely, and good luck.'' Please type 'first', 'second', or 'third'")
 path = "You chose to continue down the path. Around the very next bend a bolt of lighting strikes a tree and lands on you. *GAME OVER*."
 
 first = "You chose the first door. Really that lazy, huh? You open the door and find an empty white room with no exit! HAVE FUN *GAME OVER*"
